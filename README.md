@@ -18,6 +18,6 @@ This guide provides steps to run and execute the HealthDB project
 
 5) The files setup.py, healthdb.py, healthdb2.py are earlier versions of code which work but are not efficient. Run healthdb3.py using the command streamlit run healthdb3.py (After inserting the Gemini key ofc)
 
-# There are a set of queries at the end of healthdb2.py which can be copied or used as reference while executing the program. 
+## There are a set of queries at the end of healthdb2.py which can be copied or used as reference while executing the program. 
 
 ### Thank you ###
